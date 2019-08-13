@@ -9,7 +9,7 @@ Ziggy creates a Blade directive which you can include in your views. This will e
 
 ## Installation
 
-1. Add Ziggy to your Composer file: `composer require tightenco/ziggy`
+1. Add Ziggy to your Composer file: `composer require amrikasir/ziggy` or `composer -vvv require amrikasir/ziggy` if you want to see verbose log
 
 2. (if Laravel 5.4) Add `Tightenco\Ziggy\ZiggyServiceProvider::class` to the `providers` array in your `config/app.php`.
 
@@ -69,7 +69,7 @@ Ziggy privide `go` method:
 route().go('/url/want/to/go')
 ```
 
-Practical AJAX example:
+Practical AJAX or Axios example:
 ```js
 var post = {id: 1, title: 'Ziggy Stardust'};
 
@@ -78,7 +78,7 @@ return axios.get(route('posts.show', post))
         return response.data;
     });
 ```
-Ajax | Axios with unamed route
+Ajax or Axios with unamed route
 ```js
 return axios.get(route().go('/url/want/to/go'))
     .then((response) => {
