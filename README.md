@@ -1,4 +1,4 @@
-> since I need Ziggy with features that I added in my Laravel Project and tightenco response is too long, I'll re-post new Packagist repository
+> since I need Ziggy with features that I added for my Laravel Project and tightenco response is too long, I'll re-post new Packagist repository
 
 ![Ziggy - Use your Laravel Named Routes inside JavaScript](https://raw.githubusercontent.com/tightenco/ziggy/master/ziggy-banner.png?version=2)
 
