@@ -299,7 +299,7 @@ This pattern is not limited to laravel-haml; it can be used to initialize any cu
 
 ## Contributions & Credits
 
-To get started contributing to Ziggy, check out [the contribution guide](CONTRIBUTING.md).
+To get started contributing to Ziggy, just Pull Request your code.
 
 - [Daniel Coulbourne](https://twitter.com/DCoulbourne)
 - [Matt Stauffer](https://twitter.com/stauffermatt)
