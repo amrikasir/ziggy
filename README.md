@@ -1,4 +1,5 @@
-> just a copy/fork from [tightenco/ziggy](https://github.com/tightenco/ziggy)
+> just a copy/fork from [tightenco/ziggy](https://github.com/tightenco/ziggy).
+
 > since I need Ziggy with features that I added for my Laravel Project and tightenco response is too long, I'll re-post new Packagist repository
 
 ![Ziggy - Use your Laravel Named Routes inside JavaScript](https://raw.githubusercontent.com/tightenco/ziggy/master/ziggy-banner.png?version=2)
