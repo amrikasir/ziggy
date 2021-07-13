@@ -27,7 +27,7 @@
     },
     "require-dev": {
         "orchestra/testbench": "~3.6",
-        "mikey179/vfsStream": "^1.6"
+        "mikey179/vfsstream": "^1.6"
     },
     "extra": {
         "laravel": {
